@@ -1,1 +1,1 @@
-This repository contains SQL queries designed for data exploration and analysis. These queries are intended to help users understand and derive insights from specific datasets.
+Welcome to my data analysis portfolio project! This repository contains SQL queries designed for data exploration and analysis. These queries are crafted to derive insights and perform analysis on various datasets.
